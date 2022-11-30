@@ -1,4 +1,4 @@
-# EDITS
+# Important Notes
 * Please refer the report.pdf for the analysis plots and conclusions.
 * The directory "Analysis Plotting and Rough" contains the ipynb file which contains the code that was used to generate the plots.
 * The single_thread.h has two routines, One baseline(naive) and the other optimised. Please uncomment the one which you would want to run and comment the other.
