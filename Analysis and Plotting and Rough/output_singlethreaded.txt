@@ -1,0 +1,31 @@
+Input matrix of size 16
+Reference execution time: 0.011 ms
+Single thread execution time: 0.016 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 512
+Reference execution time: 276.279 ms
+Single thread execution time: 371.757 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 1024
+Reference execution time: 5862.26 ms
+Single thread execution time: 2987.28 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 2048
+Reference execution time: 66889.4 ms
+Single thread execution time: 24352.5 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 4096
+Reference execution time: 1.02936e+06 ms
+Single thread execution time: 195646 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 8192
+Reference execution time: 8.25209e+06 ms
+Single thread execution time: 1.54751e+06 ms
+Multi-threaded execution time: 0 ms
+Mismatch at 0
+Input matrix of size 16384
